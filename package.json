@@ -1,0 +1,24 @@
+{
+  "name": "learnplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnplaywright/L01-learnplaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learnplaywright/L01-learnplaywright/issues"
+  },
+  "homepage": "https://github.com/learnplaywright/L01-learnplaywright#readme",
+  "dependencies": {
+    "i": "^0.3.6",
+    "playwright": "^1.12.2"
+  }
+}
